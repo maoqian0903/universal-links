@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zjzc.zjcap",
+    "sha256_cert_fingerprints":
+    ["CE:83:E7:76:DF:6B:2C:85:B5:90:8F:6D:73:DD:AB:B7:82:F5:F6:25:AB:F3:A3:1F:20:A4:87:CE:A2:9C:4D:D4"]
+  }
+}]
